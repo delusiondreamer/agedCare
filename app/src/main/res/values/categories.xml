@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>类别</item>
+        <item>保姆</item>
+        <item>保洁</item>
+        <item>维修</item>
+        <item>搬运配送</item>
+        <item>上门厨师</item>
+        <item>上门理发</item>
+        <item>上门按摩</item>
+        <item>其他</item>
+    </string-array>
+</resources>
