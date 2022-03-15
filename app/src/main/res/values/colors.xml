@@ -11,5 +11,6 @@
     <color name="orange">#f4511e</color>
     <color name="light_orange">#ff844c</color>
     <color name="dark_orange">#b91400</color>
+    <color name="backgroud_grey">#eeeeee</color>
 
 </resources>
