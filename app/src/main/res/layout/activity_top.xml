@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@android:color/holo_orange_dark" >
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_orange_dark"
+        android:src="@drawable/car_ui_icon_arrow_back" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/title"
+        android:textSize="17sp" />
+    <TextView
+        android:layout_width="80dp"
+        android:gravity="center"
+        android:layout_alignParentRight="true"
+        android:layout_height="match_parent"
+        android:text="更多"
+        android:textSize="12sp"
+        android:textColor="#fff"/>
+
+</RelativeLayout>

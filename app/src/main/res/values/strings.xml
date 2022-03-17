@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">agedCare</string>
     <string name="category_title">类别</string>
+    <string name="phonenumber">电话号码</string>
+    <string name="inputphonenumber">请输入手机号</string>
+    <string name="password">密码</string>
+    <string name="inputpassword">请输入密码</string>
+    <string name="login">登陆</string>
+    <string name="getpasswordback">找回密码</string>
+    <string name="phonefastlogin">手机快捷登陆</string>
+    <string name="tencentQQ">QQ登陆</string>
+    <string name="weixin">微信登录</string>
+    <string name="bilibili">B站登陆</string>
+    <string name="fastlogin">其他登录方式</string>
+    <string name="title">账号密码登录</string>
 </resources>
