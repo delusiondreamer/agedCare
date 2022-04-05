@@ -78,7 +78,7 @@
         android:background="@color/pink"
         android:text="@string/login"
         android:textSize="17sp" />
-    <!-- 关掉action bar显示粉色-->
+    <!-- 关掉action bar显示粉色哦-->
 
     <RelativeLayout
         android:layout_width="match_parent"
